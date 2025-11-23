@@ -1,0 +1,926 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "description": "Master modern web development with HTML, CSS, JavaScript, React, and Node.js. Build real-world projects and launch your career as a full-stack developer.",
+    "category": "Web Development",
+    "level": "Beginner",
+    "duration": "12 weeks",
+    "students": 15420,
+    "rating": 4.8,
+    "instructor": "Sarah Johnson",
+    "price": 79.99,
+    "thumbnail": "web-dev",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to Web Development",
+        "duration": "15 min",
+        "content": "Welcome to the Complete Web Development Bootcamp! In this lesson, we'll explore what web development is, the different roles in web development, and what you'll learn throughout this course. We'll also set up your development environment and write your first lines of code.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "HTML Fundamentals",
+        "duration": "25 min",
+        "content": "Dive into HTML (HyperText Markup Language), the backbone of every website. Learn about semantic HTML, document structure, essential tags, forms, and best practices for writing clean, accessible HTML code.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "CSS Styling and Layout",
+        "duration": "30 min",
+        "content": "Master CSS to make your websites beautiful and responsive. Learn about selectors, the box model, flexbox, grid layout, animations, and modern CSS techniques to create stunning user interfaces.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "JavaScript Basics",
+        "duration": "35 min",
+        "content": "Learn JavaScript, the programming language of the web. Understand variables, data types, functions, control flow, and DOM manipulation to make your websites interactive and dynamic.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "React Fundamentals",
+        "duration": "40 min",
+        "content": "Get started with React, the most popular JavaScript library for building user interfaces. Learn about components, props, state, hooks, and how to build modern, reactive web applications.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language"],
+        "correct": 0
+      },
+      {
+        "question": "Which CSS property is used for layout positioning?",
+        "options": ["color", "display", "font-size", "background"],
+        "correct": 1
+      },
+      {
+        "question": "What is the correct way to declare a variable in JavaScript?",
+        "options": ["var name = 'John';", "variable name = 'John';", "v name = 'John';", "name := 'John';"],
+        "correct": 0
+      },
+      {
+        "question": "What is React primarily used for?",
+        "options": ["Database management", "Building user interfaces", "Server configuration", "Image editing"],
+        "correct": 1
+      },
+      {
+        "question": "Which HTML tag is used for the largest heading?",
+        "options": ["<heading>", "<h6>", "<h1>", "<head>"],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Python Programming Masterclass",
+    "description": "Learn Python from scratch to advanced level. Master data structures, algorithms, OOP, and build real applications including web scrapers and data analysis tools.",
+    "category": "Programming",
+    "level": "Beginner",
+    "duration": "10 weeks",
+    "students": 12350,
+    "rating": 4.7,
+    "instructor": "Michael Chen",
+    "price": 69.99,
+    "thumbnail": "python",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Python Basics and Setup",
+        "duration": "20 min",
+        "content": "Get started with Python! Install Python, set up your IDE, and write your first Python program. Learn about variables, data types, and basic syntax.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "Control Flow and Functions",
+        "duration": "28 min",
+        "content": "Master control structures like if-else statements, loops, and functions. Learn how to write reusable code and organize your programs effectively.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "Data Structures in Python",
+        "duration": "32 min",
+        "content": "Explore Python's powerful built-in data structures: lists, tuples, dictionaries, and sets. Learn when and how to use each one effectively.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "Object-Oriented Programming",
+        "duration": "35 min",
+        "content": "Dive into OOP concepts: classes, objects, inheritance, polymorphism, and encapsulation. Build robust, maintainable code using OOP principles.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "Working with Files and APIs",
+        "duration": "30 min",
+        "content": "Learn to read and write files, work with JSON data, and interact with web APIs. Build practical applications that work with real-world data.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [".python", ".py", ".pt", ".pyt"],
+        "correct": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["function", "def", "func", "define"],
+        "correct": 1
+      },
+      {
+        "question": "What data structure uses key-value pairs?",
+        "options": ["List", "Tuple", "Dictionary", "Set"],
+        "correct": 2
+      },
+      {
+        "question": "Which method is called when an object is created?",
+        "options": ["__start__", "__init__", "__create__", "__new__"],
+        "correct": 1
+      },
+      {
+        "question": "What does OOP stand for?",
+        "options": ["Object Oriented Programming", "Only One Program", "Open Office Protocol", "Optimized Object Processing"],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design Fundamentals",
+    "description": "Learn the principles of great user interface and experience design. Master Figma, create beautiful mockups, and understand user psychology.",
+    "category": "Design",
+    "level": "Intermediate",
+    "duration": "8 weeks",
+    "students": 9850,
+    "rating": 4.9,
+    "instructor": "Emma Williams",
+    "price": 89.99,
+    "thumbnail": "design",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to UI/UX Design",
+        "duration": "18 min",
+        "content": "Understand the difference between UI and UX design. Learn about the design thinking process and how to approach design problems systematically.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "Design Principles and Color Theory",
+        "duration": "25 min",
+        "content": "Master fundamental design principles: contrast, balance, hierarchy, and proximity. Learn color theory and how to create harmonious color palettes.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "Typography and Layout",
+        "duration": "22 min",
+        "content": "Explore typography fundamentals, font pairing, and creating effective layouts. Learn about grid systems and responsive design principles.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "Figma Mastery",
+        "duration": "35 min",
+        "content": "Master Figma, the industry-standard design tool. Learn about components, auto-layout, prototyping, and collaborative design workflows.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "User Research and Testing",
+        "duration": "28 min",
+        "content": "Learn how to conduct user research, create user personas, and perform usability testing. Make data-driven design decisions.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does UX stand for?",
+        "options": ["User Experience", "Universal Expertise", "Unified Exchange", "User Expertise"],
+        "correct": 0
+      },
+      {
+        "question": "Which color scheme uses colors opposite on the color wheel?",
+        "options": ["Monochromatic", "Analogous", "Complementary", "Triadic"],
+        "correct": 2
+      },
+      {
+        "question": "What is the purpose of a wireframe?",
+        "options": ["Final design", "Layout structure", "Color palette", "Typography guide"],
+        "correct": 1
+      },
+      {
+        "question": "Which design principle creates visual interest?",
+        "options": ["Similarity", "Contrast", "Uniformity", "Consistency"],
+        "correct": 1
+      },
+      {
+        "question": "What is a design system?",
+        "options": ["A software tool", "A collection of reusable components", "A type of layout", "A color palette"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Data Science with Python",
+    "description": "Master data science fundamentals with Python. Learn pandas, NumPy, data visualization, and machine learning basics to analyze and interpret data.",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "duration": "14 weeks",
+    "students": 11200,
+    "rating": 4.8,
+    "instructor": "Dr. James Rodriguez",
+    "price": 99.99,
+    "thumbnail": "data-science",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to Data Science",
+        "duration": "22 min",
+        "content": "Explore what data science is, its applications, and the skills you need. Set up your data science environment with Jupyter notebooks.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "NumPy for Numerical Computing",
+        "duration": "30 min",
+        "content": "Master NumPy arrays and operations. Learn about broadcasting, vectorization, and efficient numerical computations.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "Data Manipulation with Pandas",
+        "duration": "35 min",
+        "content": "Learn pandas for data manipulation and analysis. Work with DataFrames, handle missing data, and perform complex data transformations.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "Data Visualization",
+        "duration": "28 min",
+        "content": "Create stunning visualizations with Matplotlib and Seaborn. Learn to tell compelling stories with data through effective charts and graphs.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "Introduction to Machine Learning",
+        "duration": "40 min",
+        "content": "Get started with machine learning using scikit-learn. Build your first predictive models and understand fundamental ML concepts.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the main data structure in pandas?",
+        "options": ["Array", "DataFrame", "Matrix", "Table"],
+        "correct": 1
+      },
+      {
+        "question": "Which library is used for numerical computing?",
+        "options": ["pandas", "matplotlib", "NumPy", "seaborn"],
+        "correct": 2
+      },
+      {
+        "question": "What does ML stand for?",
+        "options": ["Multiple Learning", "Machine Learning", "Modern Logic", "Manual Labor"],
+        "correct": 1
+      },
+      {
+        "question": "Which chart is best for showing trends over time?",
+        "options": ["Pie chart", "Bar chart", "Line chart", "Scatter plot"],
+        "correct": 2
+      },
+      {
+        "question": "What is feature engineering?",
+        "options": ["Creating new features from existing data", "Engineering software", "Building machines", "Testing features"],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Development with React Native",
+    "description": "Build native mobile apps for iOS and Android using React Native. Learn navigation, state management, and how to publish apps to app stores.",
+    "category": "Mobile Development",
+    "level": "Intermediate",
+    "duration": "11 weeks",
+    "students": 8750,
+    "rating": 4.7,
+    "instructor": "Alex Kumar",
+    "price": 84.99,
+    "thumbnail": "mobile-dev",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Getting Started with React Native",
+        "duration": "25 min",
+        "content": "Set up your React Native development environment. Understand the difference between React and React Native, and create your first mobile app.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "Core Components and Styling",
+        "duration": "30 min",
+        "content": "Learn about React Native core components: View, Text, Image, ScrollView. Master styling with StyleSheet and create responsive layouts.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "Navigation and Routing",
+        "duration": "32 min",
+        "content": "Implement navigation in your app using React Navigation. Learn about stack, tab, and drawer navigators to create smooth user flows.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "State Management with Redux",
+        "duration": "35 min",
+        "content": "Master state management in React Native apps using Redux. Learn about actions, reducers, and the Redux store.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "API Integration and Deployment",
+        "duration": "38 min",
+        "content": "Connect your app to backend APIs, handle authentication, and learn how to deploy your app to the App Store and Google Play.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is React Native?",
+        "options": ["A mobile browser", "A framework for building native apps", "An IDE", "A database"],
+        "correct": 1
+      },
+      {
+        "question": "Which component is used for scrollable content?",
+        "options": ["View", "ScrollView", "Text", "Container"],
+        "correct": 1
+      },
+      {
+        "question": "What is Redux used for?",
+        "options": ["Styling", "State management", "Navigation", "Testing"],
+        "correct": 1
+      },
+      {
+        "question": "Which platforms does React Native support?",
+        "options": ["Only iOS", "Only Android", "Both iOS and Android", "Only web"],
+        "correct": 2
+      },
+      {
+        "question": "What is a React Native component?",
+        "options": ["A database", "A reusable piece of UI", "A server", "A style"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Digital Marketing Masterclass",
+    "description": "Learn comprehensive digital marketing strategies including SEO, social media marketing, content marketing, and paid advertising to grow your business.",
+    "category": "Marketing",
+    "level": "Beginner",
+    "duration": "9 weeks",
+    "students": 13400,
+    "rating": 4.6,
+    "instructor": "Lisa Anderson",
+    "price": 74.99,
+    "thumbnail": "marketing",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to Digital Marketing",
+        "duration": "20 min",
+        "content": "Understand the digital marketing landscape, key channels, and how to create an effective digital marketing strategy.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "SEO Fundamentals",
+        "duration": "28 min",
+        "content": "Master search engine optimization. Learn keyword research, on-page SEO, link building, and technical SEO best practices.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "Social Media Marketing",
+        "duration": "25 min",
+        "content": "Create effective social media strategies across platforms. Learn about content creation, engagement, and social media analytics.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "Content Marketing Strategy",
+        "duration": "30 min",
+        "content": "Develop a content marketing strategy that attracts and engages your audience. Learn about blogging, video content, and email marketing.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "Paid Advertising (PPC)",
+        "duration": "32 min",
+        "content": "Master paid advertising with Google Ads and Facebook Ads. Learn campaign setup, targeting, optimization, and ROI measurement.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does SEO stand for?",
+        "options": ["Social Engine Optimization", "Search Engine Optimization", "Site Enhancement Operation", "System Error Output"],
+        "correct": 1
+      },
+      {
+        "question": "Which metric measures ad effectiveness?",
+        "options": ["Color scheme", "ROI", "Font size", "Page count"],
+        "correct": 1
+      },
+      {
+        "question": "What is content marketing?",
+        "options": ["Selling products directly", "Creating valuable content to attract audience", "Email spam", "Cold calling"],
+        "correct": 1
+      },
+      {
+        "question": "What does PPC stand for?",
+        "options": ["Popular Page Content", "Pay Per Click", "Public Page Creator", "Premium Product Cost"],
+        "correct": 1
+      },
+      {
+        "question": "Which platform is best for B2B marketing?",
+        "options": ["TikTok", "LinkedIn", "Snapchat", "Pinterest"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Cybersecurity Fundamentals",
+    "description": "Learn essential cybersecurity concepts, ethical hacking, network security, and how to protect systems from cyber threats and attacks.",
+    "category": "Security",
+    "level": "Intermediate",
+    "duration": "12 weeks",
+    "students": 7200,
+    "rating": 4.8,
+    "instructor": "David Thompson",
+    "price": 94.99,
+    "thumbnail": "security",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to Cybersecurity",
+        "duration": "22 min",
+        "content": "Understand the cybersecurity landscape, common threats, and the importance of security in today's digital world.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "Network Security Basics",
+        "duration": "30 min",
+        "content": "Learn about network protocols, firewalls, VPNs, and how to secure network infrastructure against attacks.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "Ethical Hacking Introduction",
+        "duration": "35 min",
+        "content": "Get started with ethical hacking. Learn about penetration testing, vulnerability assessment, and security tools.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "Cryptography and Encryption",
+        "duration": "28 min",
+        "content": "Understand cryptographic principles, encryption algorithms, and how to implement secure communication systems.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "Security Best Practices",
+        "duration": "25 min",
+        "content": "Learn industry best practices for securing applications, managing passwords, and protecting sensitive data.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is a firewall?",
+        "options": ["A type of virus", "A security system that monitors network traffic", "An antivirus software", "A backup system"],
+        "correct": 1
+      },
+      {
+        "question": "What does VPN stand for?",
+        "options": ["Virtual Private Network", "Very Personal Network", "Verified Public Node", "Visual Program Navigator"],
+        "correct": 0
+      },
+      {
+        "question": "What is phishing?",
+        "options": ["A type of encryption", "A social engineering attack", "A firewall", "A backup method"],
+        "correct": 1
+      },
+      {
+        "question": "What is two-factor authentication?",
+        "options": ["A backup system", "An additional security layer", "A type of virus", "A programming language"],
+        "correct": 1
+      },
+      {
+        "question": "What is the purpose of encryption?",
+        "options": ["Speed up computers", "Protect data confidentiality", "Delete files", "Create backups"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Cloud Computing with AWS",
+    "description": "Master Amazon Web Services (AWS). Learn about EC2, S3, Lambda, and how to build scalable cloud applications and infrastructure.",
+    "category": "Cloud Computing",
+    "level": "Advanced",
+    "duration": "13 weeks",
+    "students": 6800,
+    "rating": 4.7,
+    "instructor": "Robert Martinez",
+    "price": 109.99,
+    "thumbnail": "cloud",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to Cloud Computing",
+        "duration": "25 min",
+        "content": "Understand cloud computing concepts, service models (IaaS, PaaS, SaaS), and get started with AWS.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "EC2 and Compute Services",
+        "duration": "32 min",
+        "content": "Master EC2 instances, load balancers, and auto-scaling. Learn how to deploy and manage applications on AWS.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "S3 and Storage Solutions",
+        "duration": "28 min",
+        "content": "Learn about S3 buckets, storage classes, and data management. Implement backup and disaster recovery solutions.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "Serverless with Lambda",
+        "duration": "35 min",
+        "content": "Build serverless applications using AWS Lambda. Learn about triggers, API Gateway, and event-driven architecture.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "Database Services and RDS",
+        "duration": "30 min",
+        "content": "Master AWS database services including RDS, DynamoDB, and Aurora. Design scalable database architectures.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does AWS stand for?",
+        "options": ["Advanced Web Services", "Amazon Web Services", "Automated Work System", "Application Web Server"],
+        "correct": 1
+      },
+      {
+        "question": "What is EC2?",
+        "options": ["A database", "A virtual server in the cloud", "A storage service", "An email service"],
+        "correct": 1
+      },
+      {
+        "question": "What is S3 used for?",
+        "options": ["Computing", "Object storage", "Networking", "Email"],
+        "correct": 1
+      },
+      {
+        "question": "What is serverless computing?",
+        "options": ["Running code without managing servers", "No internet connection", "Local development", "Desktop applications"],
+        "correct": 0
+      },
+      {
+        "question": "What does IaaS stand for?",
+        "options": ["Internet as a Service", "Infrastructure as a Service", "Information as a Service", "Integration as a Service"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Artificial Intelligence & Machine Learning",
+    "description": "Dive deep into AI and ML. Learn neural networks, deep learning, natural language processing, and build intelligent applications.",
+    "category": "AI & ML",
+    "level": "Advanced",
+    "duration": "16 weeks",
+    "students": 9100,
+    "rating": 4.9,
+    "instructor": "Dr. Sophia Lee",
+    "price": 119.99,
+    "thumbnail": "ai-ml",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to AI and ML",
+        "duration": "30 min",
+        "content": "Explore the fundamentals of artificial intelligence and machine learning. Understand different types of ML and their applications.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "Neural Networks Fundamentals",
+        "duration": "38 min",
+        "content": "Learn about artificial neural networks, activation functions, and backpropagation. Build your first neural network from scratch.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "Deep Learning with TensorFlow",
+        "duration": "42 min",
+        "content": "Master deep learning using TensorFlow and Keras. Build convolutional neural networks for image recognition.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "Natural Language Processing",
+        "duration": "40 min",
+        "content": "Explore NLP techniques for text analysis, sentiment analysis, and language models. Work with transformers and BERT.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "AI Ethics and Deployment",
+        "duration": "35 min",
+        "content": "Understand AI ethics, bias in ML models, and how to deploy ML models in production environments.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is a neural network?",
+        "options": ["A social network", "A computing system inspired by biological neurons", "A type of database", "A programming language"],
+        "correct": 1
+      },
+      {
+        "question": "What is deep learning?",
+        "options": ["Simple machine learning", "ML with neural networks having multiple layers", "Data analysis", "Web development"],
+        "correct": 1
+      },
+      {
+        "question": "What does NLP stand for?",
+        "options": ["New Language Program", "Natural Language Processing", "Network Layer Protocol", "Neural Learning Process"],
+        "correct": 1
+      },
+      {
+        "question": "What is supervised learning?",
+        "options": ["Learning without data", "Learning from labeled data", "Random learning", "Manual learning"],
+        "correct": 1
+      },
+      {
+        "question": "What is TensorFlow?",
+        "options": ["A database", "An ML framework", "A web browser", "An operating system"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Blockchain Development",
+    "description": "Learn blockchain technology, smart contracts, and decentralized applications. Build on Ethereum and explore Web3 development.",
+    "category": "Blockchain",
+    "level": "Advanced",
+    "duration": "14 weeks",
+    "students": 5600,
+    "rating": 4.6,
+    "instructor": "Kevin Zhang",
+    "price": 99.99,
+    "thumbnail": "blockchain",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to Blockchain",
+        "duration": "28 min",
+        "content": "Understand blockchain technology, distributed ledgers, consensus mechanisms, and cryptocurrency fundamentals.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "Smart Contracts with Solidity",
+        "duration": "35 min",
+        "content": "Learn Solidity programming language for Ethereum smart contracts. Write, test, and deploy your first smart contract.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "DApp Development",
+        "duration": "38 min",
+        "content": "Build decentralized applications (DApps) using Web3.js and React. Connect smart contracts to user interfaces.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "NFTs and Token Standards",
+        "duration": "32 min",
+        "content": "Create NFTs and understand ERC-20, ERC-721, and ERC-1155 token standards. Build a token marketplace.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "DeFi and Security",
+        "duration": "40 min",
+        "content": "Explore decentralized finance protocols. Learn about smart contract security and common vulnerabilities.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is blockchain?",
+        "options": ["A database", "A distributed ledger technology", "A programming language", "A web framework"],
+        "correct": 1
+      },
+      {
+        "question": "What is a smart contract?",
+        "options": ["A legal document", "Self-executing code on blockchain", "A business agreement", "A mobile app"],
+        "correct": 1
+      },
+      {
+        "question": "What language is used for Ethereum smart contracts?",
+        "options": ["JavaScript", "Python", "Solidity", "Java"],
+        "correct": 2
+      },
+      {
+        "question": "What does DApp stand for?",
+        "options": ["Digital Application", "Decentralized Application", "Data Application", "Desktop Application"],
+        "correct": 1
+      },
+      {
+        "question": "What is an NFT?",
+        "options": ["A cryptocurrency", "A non-fungible token", "A smart contract", "A blockchain"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Game Development with Unity",
+    "description": "Create 2D and 3D games using Unity engine. Learn C# programming, game physics, animation, and publish games to multiple platforms.",
+    "category": "Game Development",
+    "level": "Beginner",
+    "duration": "15 weeks",
+    "students": 10500,
+    "rating": 4.7,
+    "instructor": "Marcus Johnson",
+    "price": 89.99,
+    "thumbnail": "game-dev",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Unity Interface and Basics",
+        "duration": "25 min",
+        "content": "Get familiar with Unity editor, understand GameObjects, components, and create your first game scene.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "C# Programming for Unity",
+        "duration": "32 min",
+        "content": "Learn C# basics for game development. Understand scripts, variables, functions, and Unity-specific programming concepts.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "2D Game Development",
+        "duration": "35 min",
+        "content": "Create a complete 2D platformer game. Learn about sprites, animations, physics, and collision detection.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "3D Game Mechanics",
+        "duration": "40 min",
+        "content": "Build 3D games with character controllers, camera systems, and environment design. Master Unity's 3D tools.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "UI and Game Publishing",
+        "duration": "30 min",
+        "content": "Design game UI, implement menus and HUD, and learn how to build and publish your game to various platforms.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is Unity?",
+        "options": ["A programming language", "A game engine", "A graphics card", "An operating system"],
+        "correct": 1
+      },
+      {
+        "question": "Which language is primarily used in Unity?",
+        "options": ["Python", "JavaScript", "C#", "Java"],
+        "correct": 2
+      },
+      {
+        "question": "What is a GameObject in Unity?",
+        "options": ["A player", "A fundamental object in Unity", "A script", "A texture"],
+        "correct": 1
+      },
+      {
+        "question": "What is a sprite?",
+        "options": ["A 3D model", "A 2D graphic object", "A sound effect", "A script"],
+        "correct": 1
+      },
+      {
+        "question": "What handles physics in Unity?",
+        "options": ["Graphics engine", "Physics engine", "Audio engine", "Script engine"],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Photography Masterclass",
+    "description": "Master photography from basics to advanced techniques. Learn composition, lighting, editing, and build a professional portfolio.",
+    "category": "Creative",
+    "level": "Beginner",
+    "duration": "10 weeks",
+    "students": 8900,
+    "rating": 4.8,
+    "instructor": "Amanda Foster",
+    "price": 69.99,
+    "thumbnail": "photography",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Camera Basics and Settings",
+        "duration": "22 min",
+        "content": "Understand your camera, learn about aperture, shutter speed, ISO, and how to shoot in manual mode.",
+        "videoUrl": "https://example.com/video1"
+      },
+      {
+        "id": 2,
+        "title": "Composition Techniques",
+        "duration": "28 min",
+        "content": "Master composition rules: rule of thirds, leading lines, framing, and how to create visually compelling images.",
+        "videoUrl": "https://example.com/video2"
+      },
+      {
+        "id": 3,
+        "title": "Lighting and Exposure",
+        "duration": "30 min",
+        "content": "Learn about natural and artificial lighting, golden hour photography, and exposure techniques for perfect photos.",
+        "videoUrl": "https://example.com/video3"
+      },
+      {
+        "id": 4,
+        "title": "Photo Editing with Lightroom",
+        "duration": "35 min",
+        "content": "Master Adobe Lightroom for photo editing. Learn color grading, retouching, and developing your unique style.",
+        "videoUrl": "https://example.com/video4"
+      },
+      {
+        "id": 5,
+        "title": "Building Your Portfolio",
+        "duration": "25 min",
+        "content": "Learn how to curate your best work, create a professional portfolio, and market yourself as a photographer.",
+        "videoUrl": "https://example.com/video5"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is aperture?",
+        "options": ["Shutter speed", "The opening in the lens", "Camera sensor", "ISO setting"],
+        "correct": 1
+      },
+      {
+        "question": "What does ISO control?",
+        "options": ["Focus", "Sensor sensitivity to light", "Color", "Zoom"],
+        "correct": 1
+      },
+      {
+        "question": "What is the rule of thirds?",
+        "options": ["A camera setting", "A composition guideline", "A lens type", "An editing technique"],
+        "correct": 1
+      },
+      {
+        "question": "What is golden hour?",
+        "options": ["Noon", "Time shortly after sunrise or before sunset", "Midnight", "Anytime"],
+        "correct": 1
+      },
+      {
+        "question": "What is RAW format?",
+        "options": ["A video format", "An unprocessed image format", "A camera brand", "A lens type"],
+        "correct": 1
+      }
+    ]
+  }
+]
